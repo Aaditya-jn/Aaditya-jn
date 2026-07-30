@@ -1,31 +1,26 @@
-diff --git a/README.md b/README.md
-index 0908f4c9eb852ab4359dee0f96b0eda183b659a6..2979c96d2c869c68eb4a98d6db994aaa5d8d5a9f 100644
---- a/README.md
-+++ b/README.md
-@@ -1,153 +1,128 @@
+
  <div align="center">
  
--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20Jain&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Product%20Thinker&descAlignY=55&descSize=16" width="100%"/>
-+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20Jain&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%E2%80%A2%20AI%20%E2%80%A2%20Linux&descAlignY=55&descSize=16" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20Jain&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%E2%80%A2%20AI%20%E2%80%A2%20Linux&descAlignY=55&descSize=16" width="100%"/>
  
  <br/>
  
--[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Multimodal+AI+%7C+Healthcare+Tech+%7C+Misinformation+Detection;From+Indore+%E2%80%94+building+for+Bharat+and+beyond.;Hackathon+engineer.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
-+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Google+Student+Ambassador+2026;Hackathons.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Multimodal+AI+%7C+Healthcare+Tech+%7C+Misinformation+Detection;From+Indore+%E2%80%94+building+for+Bharat+and+beyond.;Hackathon+engineer.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Google+Student+Ambassador+2026;Hackathons.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
  
  <br/>
  
- ![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%202024–2028-Acropolis%20Institute%20of%20Technology-7C3AED?style=flat-square&logo=academia&logoColor=white)
+ ![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%202024–2028-Acropolis%20Institute%20of%20Technology%20and%20Research-7C3AED?style=flat-square&logo=academia&logoColor=white)
  ![CGPA](https://img.shields.io/badge/CGPA-7.53%2F10-6D28D9?style=flat-square&logo=bookstack&logoColor=white)
  ![Location](https://img.shields.io/badge/📍%20Indore-Madhya%20Pradesh%2C%20India-4C1D95?style=flat-square)
  
  <br/>
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
--[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaditya-jn)
- [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
--[![Phone](https://img.shields.io/badge/+91%208529517946-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918529517946)
+
  
  <br/>
  
@@ -51,8 +46,8 @@ index 0908f4c9eb852ab4359dee0f96b0eda183b659a6..2979c96d2c869c68eb4a98d6db994aaa
  <br/>
  
  **Open To:**
--`AI/ML Engineering Internships` &nbsp;|&nbsp; `Full Stack Engineering Roles` &nbsp;|&nbsp; `Open Source Collaborations` &nbsp;|&nbsp; `Hackathon Teams` &nbsp;|&nbsp; `Research Projects`
-+`AI/ML Engineering Internships` &nbsp;|&nbsp; `Open Source Collaborations` &nbsp;|&nbsp; `Hackathon Teams` &nbsp;|&nbsp; `Research Projects`
+-`AI/ML Engineering Internships` &nbsp;|&nbsp; `Open Source Collaborations` &nbsp;|&nbsp; `Hackathon Teams` &nbsp;|&nbsp; `Research Projects`
+
  
  ---
  
@@ -60,40 +55,17 @@ index 0908f4c9eb852ab4359dee0f96b0eda183b659a6..2979c96d2c869c68eb4a98d6db994aaa
  
  <div align="center">
  
--**Languages**
-+[![Skills](https://skillicons.dev/icons?i=python,c,cpp,react,html,css,vite,fastapi,mysql,supabase,firebase,flutter,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=python,c,cpp,react,html,css,vite,fastapi,mysql,supabase,firebase,flutter,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
  
--[![Skills](https://skillicons.dev/icons?i=python,c,cpp&theme=dark)](https://skillicons.dev)
--
--**Frontend**
--
--[![Skills](https://skillicons.dev/icons?i=react,html,css,vite&theme=dark)](https://skillicons.dev)
--
--**Backend**
-+<br/>
- 
--[![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev)
- ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
- ![FastMCP](https://img.shields.io/badge/FastMCP-7C3AED?style=flat-square&logoColor=white)
--
--**Databases**
--
--[![Skills](https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark)](https://skillicons.dev)
--
--**Mobile**
--
--[![Skills](https://skillicons.dev/icons?i=flutter&theme=dark)](https://skillicons.dev)
--
--**AI / LLM**
+
+
 -
  ![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
  
--**Tools & Platforms**
--
--[![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
--
+
  </div>
  
  ---
