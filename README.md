@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Google+Student+Ambassador+2026;Hackathons.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Multimodal+AI+%7C+Healthcare+Tech+%7C+Misinformation+Detection;From+Indore+%E2%80%94+building+for+Bharat+and+beyond.;Google+Student+Ambassador+2026;Hackathon+engineer.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -235,7 +235,6 @@ current_focus:
 [![Blog](https://img.shields.io/badge/Blog-blogsbyaadityajain.netlify.app-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogsbyaadityajain.netlify.app/)
 [![Gmail](https://img.shields.io/badge/aadityajn16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaditya-jn)
 [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
 
 </div>
