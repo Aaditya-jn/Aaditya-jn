@@ -14,8 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain16.netlify.app/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogsbyaadityajain.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
 [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
@@ -38,7 +37,7 @@ My work is centered on **data science**, **AI-driven product building**, and **L
 
 Beyond code, I contribute to my campus ecosystem — as a Core Team Member of the **Entrepreneurship Development Cell** for E-Summit 2026, a Technical Team Member for **Cosmic Star Super 100** (STEM outreach, 100+ students), and a volunteer with **Rotaract Acropolis Royals**.
 
-I operate natively on Linux, ship to GitHub consistently, and treat every build as a production system from day one. You can find my project write-ups and portfolio at **[aadityajain16.netlify.app](https://aadityajain16.netlify.app/)** and my longer-form thoughts at **[blogsbyaadityajain.netlify.app](https://blogsbyaadityajain.netlify.app/)**.
+I operate natively on Linux, ship to GitHub consistently, and treat every build as a production system from day one. You can find my project write-ups and portfolio at **[aadityajain.vercel.app](https://aadityajain.vercel.app/)**.
 
 <br/>
 
@@ -127,27 +126,6 @@ Addresses one of India's most underserved digital health gaps — medication adh
 
 ---
 
-## ◈ Certifications
-
-<div align="center">
-
-**Google Cloud**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Kaggle**
-
-![Kaggle](https://img.shields.io/badge/Kaggle%20Certified-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**AI & Emerging Technologies**
-
-![AI](https://img.shields.io/badge/AI%20%26%20ML%20Certifications-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-6D28D9?style=for-the-badge&logo=icloud&logoColor=white)
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
@@ -158,26 +136,6 @@ Addresses one of India's most underserved digital health gaps — medication adh
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Aaditya-jn&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=6D28D9&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aaditya-jn&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=7&title=Commit,Repository,Stars,Followers,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-jn&theme=react-dark&bg_color=0D0D0D&color=7C3AED&line=6D28D9&point=A855F7&area=true&area_color=4C1D95&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -231,8 +189,7 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aadityajain16.netlify.app-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain16.netlify.app/)
-[![Blog](https://img.shields.io/badge/Blog-blogsbyaadityajain.netlify.app-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogsbyaadityajain.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain.vercel.app/)
 [![Gmail](https://img.shields.io/badge/aadityajn16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
 [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
