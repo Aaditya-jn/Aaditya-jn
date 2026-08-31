@@ -27,16 +27,6 @@
 ---
 
 <div align="center">
-
-### 🧭 Quick Navigation
-
-[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🧩 Hackathon Playbook](#-hackathon-playbook) · [🌟 Beyond Code](#-beyond-code) · [🗺️ Focus](#️-current-focus)
-
-</div>
-
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
@@ -154,19 +144,13 @@ const aaditya: Developer = {
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Products
-
 | Project | Description | Tech | Source |
 |---|---|---|---|
 | 📲 **Verto AI** | WhatsApp-native multimodal misinformation-detection platform — verifies forwarded text, images, video, and PDFs and returns a multilingual credibility verdict. No app install, no login. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) | [Repo](https://github.com/Aaditya-jn/verto-ai) |
 | 💊 **MedGuard** | Bilingual Flutter healthcare app tackling medication non-adherence — Gemini Vision recognizes medicines from packaging photos, sends bilingual reminders, and escalates to caregivers when doses are missed. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) | [Repo](https://github.com/Aaditya-jn/medguard) |
-
-### 🗺️ Geospatial & Data Science
-
-| Project | Description | Tech | Status |
-|---|---|---|---|
+| 🛍️ **D2C AI Employee** | A single agent that watches Shopify, Razorpay, Shiprocket, and Meta Ads simultaneously and flags margin leaks — like high RTO rates in specific courier zones or uncollected payment gaps — backed by row-level citations. Two-phase design (SQL scan → LLM only on breach) with an anti-hallucination validator that drops any recommendation the DB can't confirm. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [Repo](https://github.com/Aaditya-jn/D2C-Employee) |
 | 🌳 **FRA Atlas AI** *(SIH25108)* | AI-powered WebGIS decision-support system for Forest Rights Act monitoring — Smart India Hackathon problem statement, built on ISRO Bhuvan/Sentinel-2 data. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | In progress |
-| 🌫️ **AQI Source Attribution** | AI-driven pollution source identification and policy simulation for Delhi-NCR — CPCB/NASA FIRMS data, ML source attribution, Prophet/LSTM forecasting. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | Minor project |
+| 🌫️ **AQI Source Attribution** | AI-driven pollution source identification and policy simulation for Delhi-NCR — CPCB/NASA FIRMS data, ML source attribution, Prophet/LSTM forecasting. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | In progress |
 
 </div>
 
@@ -212,30 +196,21 @@ graph LR
   <tr>
     <td width="33%" valign="top">
       <h3>🎯 Currently Focused On</h3>
-      - 🗺️ Building <strong>FRA Atlas AI</strong> for SIH<br>
-      - 🌫️ Shipping the <strong>AQI attribution</strong> MVP<br>
-      - 🧠 Deepening <strong>LangChain RAG</strong> pipelines<br>
       - 🌐 Serving as <strong>Google Student Ambassador</strong><br>
-      - 🤝 Core Team, <strong>E-Summit 2026</strong><br>
-      - 🔭 Exploring <strong>satellite image AI</strong> (cloud removal)
+      - 🧮 DSA & system design — placement prep<br>
+      - 🏗️ Shipping side projects, always
     </td>
     <td width="33%" valign="top">
       <h3>🎨 Beyond Tech</h3>
-      - ☕ Exploring cafes around <strong>Indore</strong><br>
       - 🥾 Trekking on weekends<br>
-      - 🏏 Cricket & following the <strong>IPL</strong><br>
       - 🚀 Space science via <strong>Cosmic Star Super 100</strong><br>
+      - 🤝 Core Team, <strong>E-Summit 2026</strong> (EDC)<br>
       - ✍️ Ghostwriting on X (Twitter)<br>
       - 🎤 Meeting friends, building community
     </td>
     <td width="33%" valign="top">
       <h3>🎓 Always Learning</h3>
-      - 📚 System design for FastAPI microservices<br>
-      - 🧩 Advanced LangChain retrieval strategies<br>
-      - ☁️ Google Cloud Platform<br>
-      - 🧮 DSA — placement prep<br>
-      - 🛰️ FastMCP & Model Context Protocol<br>
-      - 🏗️ Shipping side projects, always
+      - 🛰️ FastMCP & Model Context Protocol
     </td>
   </tr>
 </table>
@@ -257,6 +232,7 @@ current_focus:
     - Cloud infrastructure — Google Cloud Platform
 
   building:
+    - D2C AI Employee — multi-connector margin-leak agent for Shopify/Razorpay/Shiprocket/Meta Ads
     - FRA Atlas AI (SIH25108) — WebGIS decision-support system
     - AQI Source Attribution — pollution forecasting for Delhi-NCR
     - Expanding Verto AI with deeper multilingual + video verification
