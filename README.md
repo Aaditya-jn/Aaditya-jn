@@ -1,161 +1,252 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20Jain&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%E2%80%A2%20AI%20%E2%80%A2%20Linux&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-<br/>
+# 👨‍💻 Aaditya Jain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=720&lines=Building+AI+that+works+in+the+real+world.;FastAPI+%7C+Flutter+%7C+LangChain+%7C+Gemini;Multimodal+AI+%7C+Healthcare+Tech+%7C+Misinformation+Detection;From+Indore+%E2%80%94+building+for+Bharat+and+beyond.;Google+Student+Ambassador+2026;Hackathon+engineer.+Rapid+builder.+Curious+by+default.)](https://git.io/typing-svg)
+**AI Systems Builder & Full-Stack Engineer** | FastAPI · LangChain · Gemini AI · Flutter · React/Vite · Supabase · Twilio
 
-<br/>
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%202024–2028-Acropolis%20Institute%20of%20Technology%20and%20Research-7C3AED?style=flat-square&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.53%2F10-6D28D9?style=flat-square&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Indore-Madhya%20Pradesh%2C%20India-4C1D95?style=flat-square)
-
-<br/>
+<a href="https://github.com/Aaditya-jn">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+works+in+the+real+world;FastAPI+%7C+LangChain+%7C+Gemini+%7C+Flutter;Multimodal+AI+%7C+WebGIS+%7C+Applied+Data+Science;From+Indore+%E2%80%94+building+for+Bharat+and+beyond;Hackathon+engineer.+Rapid+builder.+Curious+by+default." alt="Typing SVG" />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
 [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
 
-<br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aaditya-jn&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Aaditya-jn?style=flat-square&color=6D28D9&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/Aaditya-jn?style=flat-square&color=4C1D95&label=Stars)
+![Internships](https://img.shields.io/badge/💼_AI%2FML_Internships-Open-success?style=for-the-badge&labelColor=006400)
+![Hackathons](https://img.shields.io/badge/🏆_Hackathon_Teams-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
+![Collaborations](https://img.shields.io/badge/🤝_Open_Source-Collaborating-4169E1?style=for-the-badge&labelColor=00008B)
+![Ambassador](https://img.shields.io/badge/🌐_Google_Student_Ambassador-2026-9370DB?style=for-the-badge&labelColor=4B0082)
 
 </div>
 
 ---
-
-## ◈ About
-
-I'm a Computer Science undergraduate at **Acropolis Institute of Technology and Research, Indore** (Batch 2024–2028). I design and ship AI-integrated full-stack products — from FastAPI and LangChain backends to Flutter mobile apps and React frontends — targeting real, underserved problems across Bharat.
-
-My work is centered on **data science**, **AI-driven product building**, and **Linux-first development**. I'm also carrying forward the **Google Student Ambassador 2026** role while building practical AI tools that solve real user problems.
-
-Beyond code, I contribute to my campus ecosystem — as a Core Team Member of the **Entrepreneurship Development Cell** for E-Summit 2026, a Technical Team Member for **Cosmic Star Super 100** (STEM outreach, 100+ students), and a volunteer with **Rotaract Acropolis Royals**.
-
-I operate natively on Linux, ship to GitHub consistently, and treat every build as a production system from day one. You can find my project write-ups and portfolio at **[aadityajain.vercel.app](https://aadityajain.vercel.app/)**.
-
-<br/>
-
-**Open To:**
-`AI/ML Engineering Internships` &nbsp;|&nbsp; `Open Source Collaborations` &nbsp;|&nbsp; `Hackathon Teams` &nbsp;|&nbsp; `Research Projects`
-
----
-
-## ◈ Tech Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,c,cpp,react,html,css,vite,fastapi,mysql,supabase,firebase,flutter,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+### 🧭 Quick Navigation
 
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🧩 Hackathon Playbook](#-hackathon-playbook) · [🌟 Beyond Code](#-beyond-code) · [🗺️ Focus](#️-current-focus)
 
 </div>
 
 ---
 
-## ◈ AI / ML Expertise
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM Integration | █████████░ Expert | Gemini AI — production API usage across text, image, and multimodal flows |
-| Applied AI Systems | ████████░░ Advanced | End-to-end AI product pipelines from ingestion to user-facing responses |
-| Computer Vision | ███████░░░ Proficient | OpenCV-powered image analysis for content verification workflows |
-| Conversational AI | ████████░░ Advanced | Twilio WhatsApp bots — zero-install AI delivery to end users |
-| Retrieval-Augmented Generation | ███████░░░ Proficient | LangChain RAG pipelines for fact-checking and knowledge retrieval |
-| Multilingual NLP | ██████░░░░ Intermediate | Multilingual fact-checking responses across Indian language contexts |
+<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-jn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Aaditya-jn&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-jn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
 
 </div>
-
----
-
-## ◈ Featured Projects
-
-<details>
-<summary><strong>Verto AI — WhatsApp Multimodal Misinformation Detection Platform</strong></summary>
-
-<br/>
-
-A production-grade AI misinformation detection system operating natively inside WhatsApp. Users forward suspected fake news — as text, image, video, or PDF — directly to the bot. Verto AI performs multimodal verification and returns a structured credibility verdict with multilingual support. No app download. No login. No friction.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · FastAPI · LangChain · Gemini AI · FastMCP · Twilio · OpenCV |
-| **Modalities** | Text · Images · Videos · PDFs — all verified in a single pipeline |
-| **Distribution** | WhatsApp-native — zero installation barrier for rural and semi-urban users |
-| **Multilingual** | Fact-checking responses support multiple Indian languages |
-| **Verification** | Multimodal cross-referencing · LLM-based claim extraction · Credibility scoring |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Aaditya-jn/verto-ai) |
-
-Verto AI is designed as a practical verification assistant for high-volume WhatsApp information flows. It extracts claims from forwarded content, analyzes visual and document evidence, coordinates retrieval-backed checks, and returns a clear verdict that users can understand quickly. The system focuses on speed, accessibility, and low-friction distribution so fact-checking can happen inside the messaging workflow people already use.
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>MedGuard — Bilingual AI Healthcare & Medication Adherence App</strong></summary>
-
-<br/>
-
-A Flutter-based healthcare companion app tackling medication non-adherence in India's Hindi-speaking patient population. MedGuard uses Gemini AI to recognize medicines from packaging photographs, delivers bilingual reminders to patients and caregivers, and includes emergency escalation workflows when adherence breaks down.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Flutter · Firebase · Gemini AI · Supabase · Twilio |
-| **Target Users** | Hindi-speaking patients, elderly populations, remote caregivers |
-| **Key Features** | AI medicine recognition · Bilingual reminders · Caregiver monitoring · Emergency escalation |
-| **AI Layer** | Gemini AI Vision — scan medicine strips, no manual entry required |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Aaditya-jn/medguard) |
-
-Addresses one of India's most underserved digital health gaps — medication adherence in non-English-literate populations. Emergency escalation workflows ensure caregivers and family members are automatically notified when patients miss critical doses.
-
-</details>
-
----
-
-## ◈ GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaditya-jn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-jn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Aaditya-jn&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=6D28D9&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" alt="GitHub Streak"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Aaditya-jn&color=7C3AED&style=for-the-badge&label=Profile+Views)
+![GitHub Stars](https://img.shields.io/github/stars/Aaditya-jn?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500)
 
 </div>
 
 ---
 
-## ◈ Contribution Snake
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 👋 About Me
+
+```typescript
+const aaditya: Developer = {
+  name:     "Aaditya Jain",
+  role:     "AI Systems Builder & Full-Stack Engineer",
+  location: "📍 Indore, Madhya Pradesh, India",
+  education: "B.Tech CSE @ Acropolis Institute of Technology and Research (2024–2028)",
+
+  focus: [
+    "🤖 AI-integrated full-stack products for real-world problems in India",
+    "📱 WhatsApp-native and mobile-first distribution — zero friction for users",
+    "🗺️ Geospatial AI — WebGIS decision-support systems",
+    "🌫️ Applied data science — pollution source attribution, forecasting",
+  ],
+
+  stack: {
+    languages:  ["Python", "TypeScript", "Dart", "C", "C++"],
+    backend:    ["FastAPI", "LangChain", "FastMCP", "Node.js"],
+    frontend:   ["React", "Vite", "Flutter"],
+    ai_ml:      ["Gemini AI", "OpenCV", "ChromaDB", "Prophet/LSTM"],
+    data:       ["Supabase", "Firebase", "PostGIS", "MySQL"],
+    messaging:  ["Twilio (WhatsApp)"],
+    tooling:    ["Git", "Linux", "Antigravity IDE"],
+  },
+
+  roles: [
+    "Google Student Ambassador 2026",
+    "Core Team — Entrepreneurship Development Cell, E-Summit 2026",
+  ],
+
+  principle: "Simple working system > complex unfinished one.",
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-jn/Aaditya-jn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-jn/Aaditya-jn/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aaditya-jn/Aaditya-jn/output/github-snake.svg" />
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,react,html,css,vite,fastapi,mysql,supabase,firebase,flutter,git,github,linux,vscode&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+**AI / ML Layer**
+
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend & Messaging**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Data & Infra**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## ◈ Current Focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🚀 Featured Projects
+
+### 🤖 AI Products
+
+| Project | Description | Tech | Source |
+|---|---|---|---|
+| 📲 **Verto AI** | WhatsApp-native multimodal misinformation-detection platform — verifies forwarded text, images, video, and PDFs and returns a multilingual credibility verdict. No app install, no login. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) | [Repo](https://github.com/Aaditya-jn/verto-ai) |
+| 💊 **MedGuard** | Bilingual Flutter healthcare app tackling medication non-adherence — Gemini Vision recognizes medicines from packaging photos, sends bilingual reminders, and escalates to caregivers when doses are missed. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) | [Repo](https://github.com/Aaditya-jn/medguard) |
+
+### 🗺️ Geospatial & Data Science
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🌳 **FRA Atlas AI** *(SIH25108)* | AI-powered WebGIS decision-support system for Forest Rights Act monitoring — Smart India Hackathon problem statement, built on ISRO Bhuvan/Sentinel-2 data. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | In progress |
+| 🌫️ **AQI Source Attribution** | AI-driven pollution source identification and policy simulation for Delhi-NCR — CPCB/NASA FIRMS data, ML source attribution, Prophet/LSTM forecasting. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) | Minor project |
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Hackathon%20Playbook&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🧩 Hackathon Playbook
+
+> My working framework for evaluating and building every hackathon idea:
+
+```mermaid
+graph LR
+    A[🎯 Problem] --> B[🕳️ Gap]
+    B --> C[🛠️ MVP]
+    C --> D[✨ USP]
+    D --> E[📈 Market]
+    E --> F[💰 Revenue]
+    F --> G[🎤 Demo]
+
+    style A fill:#9333EA,color:#fff
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#4ECDC4,color:#fff
+    style D fill:#FFD93D,color:#000
+    style E fill:#1A1B27,color:#fff
+    style F fill:#006400,color:#fff
+    style G fill:#8B0000,color:#fff
+```
+
+**Problem → Gap** — name where existing solutions fail. **MVP-first** — one flow, one feature, one output. **USP + Market + Revenue** — a SaaS/freemium angle, always. Guiding principle: **simple working beats complex unfinished.**
+
+---
+
+<div align="center">
+
+## 🌟 Beyond Code
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Currently Focused On</h3>
+      - 🗺️ Building <strong>FRA Atlas AI</strong> for SIH<br>
+      - 🌫️ Shipping the <strong>AQI attribution</strong> MVP<br>
+      - 🧠 Deepening <strong>LangChain RAG</strong> pipelines<br>
+      - 🌐 Serving as <strong>Google Student Ambassador</strong><br>
+      - 🤝 Core Team, <strong>E-Summit 2026</strong><br>
+      - 🔭 Exploring <strong>satellite image AI</strong> (cloud removal)
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Beyond Tech</h3>
+      - ☕ Exploring cafes around <strong>Indore</strong><br>
+      - 🥾 Trekking on weekends<br>
+      - 🏏 Cricket & following the <strong>IPL</strong><br>
+      - 🚀 Space science via <strong>Cosmic Star Super 100</strong><br>
+      - ✍️ Ghostwriting on X (Twitter)<br>
+      - 🎤 Meeting friends, building community
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Always Learning</h3>
+      - 📚 System design for FastAPI microservices<br>
+      - 🧩 Advanced LangChain retrieval strategies<br>
+      - ☁️ Google Cloud Platform<br>
+      - 🧮 DSA — placement prep<br>
+      - 🛰️ FastMCP & Model Context Protocol<br>
+      - 🏗️ Shipping side projects, always
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Current%20Focus&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🗺️ Current Focus
 
 ```yaml
 current_focus:
@@ -166,13 +257,14 @@ current_focus:
     - Cloud infrastructure — Google Cloud Platform
 
   building:
-    - Expanding Verto AI with deeper multilingual support and video verification
-    - MedGuard — adding caregiver dashboard and analytics layer
-    - Open-source AI tooling for WhatsApp-native product development
+    - FRA Atlas AI (SIH25108) — WebGIS decision-support system
+    - AQI Source Attribution — pollution forecasting for Delhi-NCR
+    - Expanding Verto AI with deeper multilingual + video verification
+    - MedGuard — caregiver dashboard and analytics layer
 
   exploring:
     - FastMCP and Model Context Protocol integrations
-    - Multimodal AI pipelines for Indian language contexts
+    - Satellite image AI — LISS-IV cloud removal with diffusion models
     - Entrepreneurship and startup ecosystem through EDC
     - ISRO and space science research initiatives
 
@@ -185,25 +277,21 @@ current_focus:
 
 ---
 
-## ◈ Connect
-
 <div align="center">
+
+### 🤝 Let's Build Something Together
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain.vercel.app/)
-[![Gmail](https://img.shields.io/badge/aadityajn16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajn16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-jain-290037325)
+[![Twitter](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AadityaJn)
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 *"Ship working systems. Understand what you build. Let the code speak."*
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
 </div>
