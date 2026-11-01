@@ -7,7 +7,7 @@
 **AI Systems Builder & Full-Stack Engineer** | FastAPI · LangChain · Gemini AI · Flutter · React/Vite · Supabase · Twilio
 
 <a href="https://github.com/Aaditya-jn">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+works+in+the+real+world;FastAPI+%7C+LangChain+%7C+Gemini+%7C+Flutter;Multimodal+AI+%7C+WebGIS+%7C+Applied+Data+Science;From+Indore+%E2%80%94+building+for+Bharat+and+beyond;Hackathon+engineer.+Rapid+builder.+Curious+by+default." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+works+in+the+real+world;FastAPI+%7C+LangChain+%7C+Gemini+%7C+Flutter;Multimodal+AI+%7C+WebGIS+%7C+Applied+Data+Science;From+Indore+%E2%80%94+building+for+Bharat+and+beyond;Hackathons.+Rapid+builder.+Curious+by+default." alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://aadityajain.vercel.app/)
